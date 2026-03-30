@@ -17,3 +17,13 @@ print(type(country_name))
 
 print(len(first_name))
 print(len(last_name))
+
+num_one = 5
+num_two = 4
+total_of_numbers = num_one + num_two
+diff_of_numbers = num_one - num_two
+product_of_numbers = num_one * num_two
+division_of_numbers = num_one / num_two
+remainder_of_numbers = num_one % num_two # Using the modulus operator to get the remainder
+
+
