@@ -7,6 +7,19 @@ print(company.upper()) # Outputting the sting in all capital letters
 
 print(company.lower()) # Outputting the string in all lowercase letters
 
+print(company.capitalize()) # First letter is capitalized
+
+print(company.title()) # String with the title format
+
+print(company.swapcase()) # String with the cases swapped around
+
+sliced_company = company[7:]
+print(sliced_company) # Slicing the company string and omitting the first word
+
+print(company.startswith('Coding')) # Checks if the work 'coding' is included in the original string
+
+
+
 
 
 
