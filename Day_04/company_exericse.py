@@ -18,6 +18,9 @@ print(sliced_company) # Slicing the company string and omitting the first word
 
 print(company.startswith('Coding')) # Checks if the work 'coding' is included in the original string
 
+new_text = company.replace('Coding', 'Python')
+print(new_text) # Replaces the word 'coding' with 'python' # Replacing the Coding word with python using the replace method 
+
 
 
 
